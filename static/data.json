@@ -1,4 +1,6 @@
 {
   "name":"LJ526546",
-  "email": "501863928@qq.com"
+  "email": "501863928@qq.com",
+  "logo": "../static/img/logo2.png",
+  "banner": ["../static/img/banner1.jpeg","../static/img/banner2.jpeg","../static/img/banner3.jpeg"]
 }
