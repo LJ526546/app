@@ -2,5 +2,39 @@
   "name":"LJ526546",
   "email": "501863928@qq.com",
   "logo": "../static/img/logo2.png",
-  "banner": ["../static/img/banner1.jpeg","../static/img/banner2.jpeg","../static/img/banner3.jpeg"]
+  "banner": ["../static/img/banner1.jpeg","../static/img/banner2.jpeg","../static/img/banner3.jpeg"],
+  "list":[
+    {
+      "title":"走，去盐城大丰过一个燃烧卡路里的童年！",
+      "src":"https://n2-q.mafengwo.net/s12/M00/93/BB/wKgED1uffB2AKA3qABlWxlH8BFY54.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+      "intro": "这是一个余热未消的夏秋祭。 这是一篇有童年味的回忆文。 仿佛回到了童年暑假。知了还在树上热闹地嘶叫，桌子上的作业本还剩下几道题没做，心思已经飞到了遥远的动物园和游乐场。 撑着自制的荷叶伞，一溜烟地飞奔到水塘边的小鹿园喂小鹿，穿着花衫径直穿过粉紫色的花丛，仿佛要迷失在梦幻迷宫高高的树篱笆中。 美好总是一样的，十年，二十年，三十年都不曾改变，那便是眉宇间止不住藏不了的快乐与单纯。这个夏天，去 大丰 ，找回了这份暑假童年。 . . . . . Let’s go！！！ 【零】为什么是大丰？大丰在哪儿？ 盛夏的某日，当海蒂正沉浸在",
+      "name": "董舒子",
+      "img":"https://p4-q.mafengwo.net/s10/M00/7F/42/wKgBZ1mGsgmAVKGMACHxNeyFh-M46.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90",
+      "read" : "64844"
+    },
+    {
+      "title": "朋友圈的文艺重庆旅游攻略 ——网红拍照地点合集",
+      "src": "https://n1-q.mafengwo.net/s12/M00/B7/2F/wKgED1ufmXOAGFu7ABPuhMPiA3Y22.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+      "intro": "重庆，一座旅游榜上炽手可热的城市。论美食，火锅、串串、烧烤、酸菜鱼让人食指大动，论美景洪崖洞、过江索道、南山的夜景，重庆有太多诱惑着你前来。但是今天要推荐的是让你的朋友圈不落俗套的精致猪猪女孩旅行拍照攻略！",
+      "name": "若是果果",
+      "img": "https://n4-q.mafengwo.net/s12/M00/74/8C/wKgED1ubIsaAFOtDAAXXsQaEQBw78.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90",
+      "read": "11950"
+    },
+    {
+      "title": "西藏就是诗和远方（西藏9天半自由行）",
+      "src": "https://p4-q.mafengwo.net/s11/M00/23/8F/wKgBEFrMXdeAOg4sABCvXe_Jh-o82.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+      "intro": " 关于西藏 2017年在影院看了两部关于 西藏 题材的电影《 冈仁波齐 》和《七十七天》，两种不同题材同一画面的电影，一个为了信仰一个为了灵魂，故事都发生在世界屋脊上那个神秘的地方。 西藏 对每个人来说都是一个美丽的秘境，所以每个人的心中都有一个 西藏 梦。我知道其实哪里都有风景，但是 西藏 的风景是能震撼心灵深处的风景，那里有冰晶的湖泊、圣洁的雪山、明净的村落、丛林的秘境、热情的桃花、纯净的星空、虔诚的信仰和善良的人们……， 西藏 一个至少值得你一生任性走一次的地方，关于 西藏 一直都在我的旅行清单上，但好像要去",
+      "name": "帅气的花",
+      "img": "https://b1-q.mafengwo.net/s9/M00/F6/B1/wKgBs1eQfPiATlueAAvuJksiY-g66.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90",
+      "read": "55679"
+    },
+    {
+      "title": "【香港乱走】一路繁星吹落夏末旧城",
+      "src": "https://n1-q.mafengwo.net/s11/M00/4B/A4/wKgBEFt5C_OADZBfAA1iIyBhtfQ71.jpeg?imageMogr2%2Fthumbnail%2F%21288x218r%2Fgravity%2FCenter%2Fcrop%2F%21288x218%2Fquality%2F90",
+      "intro": " 在 香港 完全是乱走。 那阵子追101，再加上一直都想去 香港 ，看见在亚博有fm就马上决定要去了。出境还是麻烦，花了半个多月的时间去审批啦办通行证啦研究换币机票住宿啦，终于在临行前一天晚上瘫在座椅上，像马上要春游的小学生一样，想着我明天居然要去 香港 了。 【行程篇】乱走痕迹 DAY1 旺角-金鱼街-油麻地警署-太 平山 顶-山顶凌霄阁 DAY 2 中环-PMQ元创方-半山扶梯-嘉咸街涂鸦墙-古董街-荷里活道-摩罗上街- 香港 大学-鲗鱼涌-怪兽大厦-天星小轮- 维多利亚 港 DAY 3 叮叮车（坚尼地城-筲箕湾-金钟）-旺角-半层书店-花圃街-女人街-",
+      "name": "酸奶啊",
+      "img": "https://b3-q.mafengwo.net/s11/M00/DE/0C/wKgBEFsxlpCABS0FAACj0987zxU86.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90",
+      "read": "4232"
+    }
+  ]
 }

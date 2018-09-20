@@ -5,24 +5,28 @@
     <div class="line">
       <h3>推荐攻略</h3>
     </div>
+    <item :list = list></item>
   </div>
 </template>
 
 <script>
 import top from '@/components/home/header'
 import list from '@/components/home/list'
+import item from '@/components/home/item'
 export default {
   data () {
     return {
       src: '',
       banner: '',
-      show: false
+      show: false,
+      list: ''
     }
   },
   created () {
     this.$http.get('static/data.json').then((res) => {
       this.src = res.data.logo
       this.banner = res.data.banner
+      this.list = res.data.list
       this.show = true
     }).catch((res) =>{
       return false
@@ -30,7 +34,8 @@ export default {
   },
   components: {
     top,
-    list
+    list,
+    item
   }
 }
 </script>
