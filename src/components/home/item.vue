@@ -23,11 +23,6 @@
 
 <script>
 export default {
-  data () {
-    return {
-      key: '1'
-    }
-  },
   props: {
     list: {
       type : [Object,Array]
